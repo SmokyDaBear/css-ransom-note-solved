@@ -196,13 +196,13 @@ div :hover {
 }
 
 .frontendRLetter {
-  color: zinc;
+  color: rgb(255, 0, 128);
   font-size: 92px;
   font-variant: small-caps;
   font-weight: bold;
   text-decoration: overline 20px solid;
   font-family: "Ceviche One", sans-serif;
-  text-transform: emphasize;
+  font-variant: small-caps;
   background-color: #26f0d5;
 }
 
@@ -696,7 +696,7 @@ div :hover {
 }
 .toOLetter {
   color: #26f0d5;
-  font-size: 26x;
+  font-size: 26px;
   font-family: "Kablammo", "syncopate", sans-serif;
   font-weight: bold;
   text-decoration: overline 5px solid;
